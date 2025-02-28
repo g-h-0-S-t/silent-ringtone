@@ -1,5 +1,5 @@
 # Silent-Ringtone: Ignoring Calls Like a Ninja! 🕶️🥷
-<img width="1792" alt="image" src="https://github.com/user-attachments/assets/a147b657-0b41-4cbc-b6f3-9b5d81c10f41">
+<img width="1792" alt="Screenshot 2022-07-07 at 5 18 10 PM" src="https://user-images.githubusercontent.com/6196046/177766265-3b141051-c929-45bd-8db7-25c5eb1c2b3d.png">
 
 Welcome to the dojo of **Silent-Ringtone**, where we've turned ignoring calls into an art form. It's like having a stealth mode for your phone! 📱💨
 
